@@ -1,0 +1,7 @@
+Price of Power BI Desktop.
+
+Power BI Desktop :- This offering is free to any single user and includes data cleaning and preparation, custom visualizations and the ability to publish to the Power BI service.
+
+Power BI Desktop Pro :- The Pro plan costs $9.99/user/month.
+
+Power BI Desktop Premium :- The Premium  plan costs $4,995/user/month.
